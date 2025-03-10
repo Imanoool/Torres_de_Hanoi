@@ -13,7 +13,7 @@ using System.Threading.Tasks;
                 bool run = false;
 
              
-                Console.WriteLine("¡Bienvenido a las Torres de Hanoi!");
+                Console.WriteLine("¡Bienvenido a las Torres de Hanoi, esperamos que disfruten!");
                 Console.WriteLine("Por favor, elija el modo de juego pulsando : 1. Modo iterativo , 2. Modo recursivo");
 
               
